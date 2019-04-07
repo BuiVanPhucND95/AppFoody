@@ -3,4 +3,13 @@
     <string name="dangtai">Đang tải...</string>
     <string name="phienban">Version</string>
     <string name="tencongty">buivanphuc@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="matkhau">Mật khẩu</string>
+    <string name="nhaplaimatkhau">Nhập lại mật khẩu</string>
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="hoac">Hoặc</string>
+    <string name="dangNhapBangGoogle">Đăng nhập bằng google</string>
+    <string name="dangNhapBangFacebook">Đăng nhập bằng facebook</string>
+    <string name="quenmatkhau">Quên mật khẩu?</string>
+    <string name="dangky"><i>Đăng ký</i> </string>
 </resources>
