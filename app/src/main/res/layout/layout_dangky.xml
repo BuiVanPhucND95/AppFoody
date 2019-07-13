@@ -20,7 +20,8 @@
             android:src="@drawable/foodytext" />
 
         <EditText
-            android:id="@+id/edEmailDangNhap"
+            android:id="@+id/edEmailDangKy"
+            android:inputType="textEmailAddress"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/_10sdp"
@@ -33,7 +34,7 @@
             android:textColorHint="@color/white" />
 
         <EditText
-            android:id="@+id/edPassWordDangNhap"
+            android:id="@+id/edPassWordDangKy"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/_10sdp"
@@ -60,6 +61,7 @@
             android:textColor="@color/white"
             android:textColorHint="@color/white" />
         <Button
+            android:id="@+id/btnDangKy"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/_20sdp"

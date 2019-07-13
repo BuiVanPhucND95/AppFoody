@@ -12,4 +12,7 @@
     <string name="dangNhapBangFacebook">Đăng nhập bằng facebook</string>
     <string name="quenmatkhau">Quên mật khẩu?</string>
     <string name="dangky"><i>Đăng ký</i> </string>
+    <string name="banChuaNhap">Bạn chưa nhập</string>
+    <string name="thongBaoNhapLaiMatKhau">Mật khẩu không trùng khớp</string>
+    <string name="thongBaoDangKyThanhCong">Đăng ký thành công</string>
 </resources>
